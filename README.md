@@ -1,0 +1,2 @@
+# Multifunctional-Digital-Clock
+The purpose of this project was to implement a 24-hour digital clock to the Nexys A7-100 board with various functions using the seven-segment display, LEDs, switches, and buttons on the board. The clock will use hours, minutes, and seconds in order to maintain an accurate count of the time. The program will allow for alternate functions between several functions such as an alarm, military time, and a stopwatch. The module uses the constraint file for the Nexys A7-100 board to display the time and other functions of the program. 
